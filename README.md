@@ -8,7 +8,7 @@ Utilize PySpark and Spark SQL on Google Colab to analyze home sales data and det
 The purpose of this analysis was to leverage PySpark and Spark SQL to analyze home sales data.
 
 ### Data Description:
- - The dataset contains information for over 33,000 homes sold between 2019-2022.  The original dataset can be found [here]([https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv].
+ - The dataset contains information for over 33,000 homes sold between 2019-2022.  The original dataset can be found [here](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.2/22-big-data/home_sales_revised.csv).
  - The dataset has 11 columns including: id, date, date_built, price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, waterfront, and view rating.
 
 ### Approach:
