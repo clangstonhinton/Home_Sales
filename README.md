@@ -1,5 +1,6 @@
 # Home_Sales
-Utilize PySpark and Spark SQL on Google Colab, to analyze home sales data and determine key metrics.
+Utilize PySpark and Spark SQL on Google Colab to analyze home sales data and determine key metrics.
+
 <img width="704" alt="Screen Shot 2023-05-09 at 12 59 24 PM" src="https://github.com/clangstonhinton/Home_Sales/assets/44728723/1043d9b6-7ce1-431c-98b8-ff85508d1cfd">
 
 
@@ -8,7 +9,7 @@ The purpose of this analysis was to leverage PySpark and Spark SQL to analyze ho
 
 ### Data Description:
  - The dataset contains information for over 33,000 homes sold between 2019-2022.  The original dataset can be found HERE.
- - The dataset has 11 columns including: id, date, date_built, price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, waterfront, and view (the number of times the home was viewed).
+ - The dataset has 11 columns including: id, date, date_built, price, bedrooms, bathrooms, sqft_living, sqft_lot, floors, waterfront, and view rating.
 
 ### Approach:
  - Create a Spark Session and read in the CSV file into a dataframe
@@ -16,7 +17,7 @@ The purpose of this analysis was to leverage PySpark and Spark SQL to analyze ho
  - Create temporary views of the data
  - Run queries on cached and uncached data and compare the run times
  - Partion the data and leverage parquet formatted data
- - Answer the questions below
+ - Run queries in Spark to answer the questions below
 
 ### Key Questions & Metrics:
  1. What is the average price for a four-bedroom house solde each year?
