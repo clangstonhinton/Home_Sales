@@ -1,7 +1,7 @@
 # Home_Sales
 Utilize PySpark and Spark SQL on Google Colab, to analyze homes sales data and determine key metrics.
 
-<img width="311" alt="Home_Sales_Screen_Shot_Module_22" src="https://github.com/clangstonhinton/Home_Sales/assets/44728723/f25cdf48-7655-4b58-8af4-470ac9b1efc1">
+<img width="1200" alt="Home_Sales_Screen_Shot_Module_22" src="https://github.com/clangstonhinton/Home_Sales/assets/44728723/f25cdf48-7655-4b58-8af4-470ac9b1efc1">
 
 ## Overview of the Analysis
 The purpose of this analysis was to build a neural network machine learning model for the nonprofit foundation Alphabet Soup to help it select the applicants for funding with the best chance of success in their ventures. A binary classifer neural network model was built to predict whether applicants will be successful if funded by Alphabet Soup. A target accuracy of 75% was set for the classifer.
